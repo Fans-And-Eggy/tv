@@ -14872,7 +14872,7 @@ var Qae = JM((Boe, _1) => {
             categoryId: "TeeKO2Game",
             galleryId: "teeko2"
         }, {
-            name: "Dodo Re Mi",
+            name: "Minos's Dodo Re Mi DLX",
             tag: "nopus-opus",
             wrapper: "vue",
             isPublic: !0,
