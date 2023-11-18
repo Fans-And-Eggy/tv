@@ -14554,7 +14554,7 @@ var Qae = JM((Boe, _1) => {
             isPublic: !0,
             directory: "pp2/fibbage2"
         }, {
-            name: "Earwax",
+            name: "Zoomerwax - go to capyparty.xyz!!",
             tag: "earwax",
             wrapper: "marionette",
             isPublic: !0,
@@ -14592,7 +14592,7 @@ var Qae = JM((Boe, _1) => {
             categoryId: "TeeKOGame",
             shopItems: ["shirts"]
         }, {
-            name: "Quiplash 2",
+            name: "Blindlash 2 - Go to capyparty.xyz!!",
             tag: "quiplash2",
             wrapper: "marionette",
             isPublic: !0,
@@ -14720,7 +14720,7 @@ var Qae = JM((Boe, _1) => {
             directory: "pp6/pushthebutton",
             categoryId: "PushTheButtonGame"
         }, {
-            name: "Talking Points",
+            name: "Cursed Points - go to capyparty.xyz!!",
             tag: "jackbox-talks",
             wrapper: "marionette",
             isPublic: !0,
