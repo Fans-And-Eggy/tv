@@ -3877,7 +3877,7 @@ var Cm = ia((Mm, Hs) => {
             return !!(e.getContext && e.getContext("2d"))
         }
         static isProduction() {
-            return window.location.hostname === "jackbox.tv"
+            return window.location.hostname === "Minos's Modded Jackbox Controller"
         }
         static htmlUnescape(e) {
             return String(e).replace(/&quot;/gi, '"').replace(/&#39;/gi, "'").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">").replace(/&amp;/gi, "&")
