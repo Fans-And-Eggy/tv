@@ -14830,7 +14830,7 @@ var Qae = JM((Boe, _1) => {
             features: ["moderation", "kicking"],
             categoryId: "Fibbage4Game"
         }, {
-            name: "Roomerang",
+            name: "Roomerang w/ Pineapple Roomie",
             tag: "htmf",
             wrapper: "vue",
             isPublic: !0,
