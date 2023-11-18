@@ -14548,7 +14548,7 @@ var Qae = JM((Boe, _1) => {
             isPublic: !0,
             directory: "pp1/fibbage"
         }, {
-            name: "Fibbage 2",
+            name: "Starbage 2",
             tag: "fibbage2",
             wrapper: "marionette",
             isPublic: !0,
@@ -14599,7 +14599,7 @@ var Qae = JM((Boe, _1) => {
             directory: "pp3/quiplash2",
             categoryId: "Quiplash2Game"
         }, {
-            name: "Trivia Murder Party",
+            name: "Kubo Won't Let Me Be Invisible",
             tag: "triviadeath",
             wrapper: "marionette",
             isPublic: !0,
@@ -14862,7 +14862,7 @@ var Qae = JM((Boe, _1) => {
             features: ["kicking", "previews"],
             categoryId: "LineupGame"
         }, {
-            name: "Tee K.O. 2",
+            name: "Tee K.O. 2: Alt Mix",
             tag: "awshirt2",
             wrapper: "vue",
             isPublic: !0,
